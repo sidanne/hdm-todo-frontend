@@ -13,3 +13,10 @@ Ce projet est un backend développé avec **NestJS** + **Prisma** + **MySQL**. I
 
 ```bash
 yarn install
+
+## 📹 Démonstration
+
+👉 [Cliquez ici pour voir la vidéo de démonstration](https://drive.google.com/file/d/1SObFN0rJLWfG8tl2HOlYUSKqiTNyLWOZ/view?usp=drivesdk)
+
+Cette vidéo montre le fonctionnement complet de l'application (ajout, modification, suppression de tâches).
+
